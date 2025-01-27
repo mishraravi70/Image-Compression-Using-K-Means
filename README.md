@@ -87,7 +87,7 @@ Here is an example of how the app looks when running:
 
 ## Dependencies
 
-- Python 3.8+
+- Python 
 - Streamlit
 - NumPy
 - scikit-learn
@@ -102,9 +102,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-For any inquiries or feedback, please contact [Your Name](mailto:your-email@example.com).
 
 
 
