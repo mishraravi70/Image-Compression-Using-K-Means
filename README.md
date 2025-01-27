@@ -42,5 +42,5 @@ Clone this repository or copy the script into your local environment.
 Run the Streamlit app:
 streamlit run app.py
 Open your browser and follow the instructions to upload an image, select the compression parameters, and download the compressed result.
-![Screenshot of the App](images/screenshot.png "App Screenshot")
+![Alt text](relative-path-to-image "Optional title")
 
