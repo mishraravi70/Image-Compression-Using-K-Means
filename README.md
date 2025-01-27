@@ -1,7 +1,5 @@
 # Image Compression Using K-Means
 
-T
-
 
 Here is the workflow diagram of the image compression process using K-Means clustering. You can now use it in your GitHub repository.
 
@@ -39,16 +37,10 @@ To run this app locally, ensure you have the following Python packages installed
 - `scikit-learn`
 - `Pillow`
 
-You can install them using pip:
+##Usage
+Clone this repository or copy the script into your local environment.
+Run the Streamlit app:
+streamlit run app.py
+Open your browser and follow the instructions to upload an image, select the compression parameters, and download the compressed result.
+![Screenshot of the app](images/screenshot.png "App Screenshot")
 
-```bash
-pip install streamlit numpy opencv-python scikit-learn Pillow
-Usage
-Clone this repository or copy the script into your local environment.
-Run the Streamlit app:
-bash
-Copy
-Edit
-Usage
-Clone this repository or copy the script into your local environment.
-Run the Streamlit app:
